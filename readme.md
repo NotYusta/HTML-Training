@@ -1,4 +1,4 @@
-# In order to achieve my dreams, i have to train myself and not being lazy.
+## In order to achieve my dreams, i have to train myself and not being lazy.
 
 # To Do(s):
 ### - Learn CSS & HTML
