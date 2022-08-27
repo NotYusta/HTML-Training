@@ -2,11 +2,15 @@
 
 # To Do(s):
 ### - Learn CSS & HTML
-### - Learn how to use bootstrap naturally (without a template)
-### - Learn how to use react.
+### - Learn bootstrap naturally (without a template)
+### - Learn react.
+### - Learn PHP Laravel
+### - Learn app dev (kotlin & flutter)
 
 # Lessons Learned / Dev Flow
 
 ## 08/27/2022
 ### - Html Basics
 ### - CSS Basics
+
+### Completed all CSS & HTML guide in 1.5 hours, i guess it's easy though.
