@@ -684,6 +684,12 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
+[class*="col"] {
+  padding: 1rem;
+  border: 2px solid #fff;
+  background-color: #10ddf8;
+}
+
 .col {
   flex: 1 0 0%;
 }
